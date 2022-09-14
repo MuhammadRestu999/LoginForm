@@ -8,5 +8,5 @@ projects:
     icon: "icom.png" # https://www.flaticon.com/free-icons/login
     libs:
     - src: Vecnavium/FormsUI/FormsUI
-      version: ^2.0.0
+      version: ^1.0.0
 ...
