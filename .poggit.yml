@@ -6,4 +6,7 @@ projects:
   LoginForm:
     path: ""
     icon: "icom.png" # https://www.flaticon.com/free-icons/login
+    libs:
+    - src: jojoe77777/FormAPI
+      version: 2.1.0
 ...
