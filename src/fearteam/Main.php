@@ -23,7 +23,7 @@ use pocketmine\event\Listener;
 use pocketmine\utils\TextFormat;
 use pocketmine\plugin\Plugin;
 use pocketmine\plugin\PluginBase;
-use jojoe77777\FormAPI\CustomForm;
+use Vecnavium\FormsUI\CustomForm;
 
 class Main extends PluginBase implements Listener {
   private $trying = array();
