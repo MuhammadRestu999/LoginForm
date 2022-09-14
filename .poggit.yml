@@ -5,4 +5,5 @@ branches:
 projects:
   LoginForm:
     path: ""
+    icon: "icom.png" # https://www.flaticon.com/free-icons/login
 ...
