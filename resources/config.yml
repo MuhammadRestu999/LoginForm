@@ -1,0 +1,9 @@
+text:
+  login.kick: "3 times guessed wrong password"
+  login.label: "Tried : §e[{trying}/{maxTrying}]§r\n\nChat owner if you forget the password"
+  register.notmatch: "Passwords do not match."
+  register.label: "Write down your password in a book or note so you don't forget it."
+  join.message: "[ JOIN ] Welcome {player_name}!"
+  left.message: "[ LEFT ] Sayōnara {player_name}"
+main:
+  maxTrying: 3
